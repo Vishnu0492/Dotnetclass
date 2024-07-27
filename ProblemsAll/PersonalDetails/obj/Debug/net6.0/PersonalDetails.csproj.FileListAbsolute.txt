@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\PersonalDetails\bin\Debug\net6.0\PersonalDetails.exe
+C:\Users\Administrator\source\repos\PersonalDetails\bin\Debug\net6.0\PersonalDetails.deps.json
+C:\Users\Administrator\source\repos\PersonalDetails\bin\Debug\net6.0\PersonalDetails.runtimeconfig.json
+C:\Users\Administrator\source\repos\PersonalDetails\bin\Debug\net6.0\PersonalDetails.dll
+C:\Users\Administrator\source\repos\PersonalDetails\bin\Debug\net6.0\PersonalDetails.pdb
+C:\Users\Administrator\source\repos\PersonalDetails\obj\Debug\net6.0\PersonalDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\PersonalDetails\obj\Debug\net6.0\PersonalDetails.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\PersonalDetails\obj\Debug\net6.0\PersonalDetails.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\PersonalDetails\obj\Debug\net6.0\PersonalDetails.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PersonalDetails\obj\Debug\net6.0\PersonalDetails.dll
+C:\Users\Administrator\source\repos\PersonalDetails\obj\Debug\net6.0\refint\PersonalDetails.dll
+C:\Users\Administrator\source\repos\PersonalDetails\obj\Debug\net6.0\PersonalDetails.pdb
+C:\Users\Administrator\source\repos\PersonalDetails\obj\Debug\net6.0\PersonalDetails.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\PersonalDetails\obj\Debug\net6.0\ref\PersonalDetails.dll

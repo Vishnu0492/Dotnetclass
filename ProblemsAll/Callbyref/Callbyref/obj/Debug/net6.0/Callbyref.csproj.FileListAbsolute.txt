@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\bin\Debug\net6.0\Callbyref.exe
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\bin\Debug\net6.0\Callbyref.deps.json
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\bin\Debug\net6.0\Callbyref.runtimeconfig.json
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\bin\Debug\net6.0\Callbyref.dll
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\bin\Debug\net6.0\Callbyref.pdb
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\obj\Debug\net6.0\Callbyref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\obj\Debug\net6.0\Callbyref.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\obj\Debug\net6.0\Callbyref.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\obj\Debug\net6.0\Callbyref.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\obj\Debug\net6.0\Callbyref.dll
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\obj\Debug\net6.0\refint\Callbyref.dll
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\obj\Debug\net6.0\Callbyref.pdb
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\obj\Debug\net6.0\Callbyref.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Callbyref\Callbyref\obj\Debug\net6.0\ref\Callbyref.dll

@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\ProblemsAll\obj\Debug\net6.0\ProblemsAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ProblemsAll\obj\Debug\net6.0\ProblemsAll.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ProblemsAll\obj\Debug\net6.0\ProblemsAll.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ProblemsAll\obj\Debug\net6.0\ProblemsAll.csproj.CoreCompileInputs.cache

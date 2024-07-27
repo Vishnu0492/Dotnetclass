@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\bin\Debug\net6.0\Addition2Darray.exe
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\bin\Debug\net6.0\Addition2Darray.deps.json
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\bin\Debug\net6.0\Addition2Darray.runtimeconfig.json
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\bin\Debug\net6.0\Addition2Darray.dll
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\bin\Debug\net6.0\Addition2Darray.pdb
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\obj\Debug\net6.0\Addition2Darray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\obj\Debug\net6.0\Addition2Darray.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\obj\Debug\net6.0\Addition2Darray.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\obj\Debug\net6.0\Addition2Darray.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\obj\Debug\net6.0\Addition2Darray.dll
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\obj\Debug\net6.0\refint\Addition2Darray.dll
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\obj\Debug\net6.0\Addition2Darray.pdb
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\obj\Debug\net6.0\Addition2Darray.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Addition2Darray\Addition2Darray\obj\Debug\net6.0\ref\Addition2Darray.dll

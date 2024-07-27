@@ -1,0 +1,4 @@
+C:\Users\Administrator\source\repos\SquarePattern\SquarePattern\obj\Debug\net6.0\SquarePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\SquarePattern\SquarePattern\obj\Debug\net6.0\SquarePattern.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SquarePattern\SquarePattern\obj\Debug\net6.0\SquarePattern.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SquarePattern\SquarePattern\obj\Debug\net6.0\SquarePattern.csproj.CoreCompileInputs.cache
