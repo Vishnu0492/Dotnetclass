@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\polymorphism_multi\bin\Debug\net6.0\polymorphism_multi.exe
+C:\Users\Administrator\source\repos\polymorphism_multi\bin\Debug\net6.0\polymorphism_multi.deps.json
+C:\Users\Administrator\source\repos\polymorphism_multi\bin\Debug\net6.0\polymorphism_multi.runtimeconfig.json
+C:\Users\Administrator\source\repos\polymorphism_multi\bin\Debug\net6.0\polymorphism_multi.dll
+C:\Users\Administrator\source\repos\polymorphism_multi\bin\Debug\net6.0\polymorphism_multi.pdb
+C:\Users\Administrator\source\repos\polymorphism_multi\obj\Debug\net6.0\polymorphism_multi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\polymorphism_multi\obj\Debug\net6.0\polymorphism_multi.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\polymorphism_multi\obj\Debug\net6.0\polymorphism_multi.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\polymorphism_multi\obj\Debug\net6.0\polymorphism_multi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\polymorphism_multi\obj\Debug\net6.0\polymorphism_multi.dll
+C:\Users\Administrator\source\repos\polymorphism_multi\obj\Debug\net6.0\refint\polymorphism_multi.dll
+C:\Users\Administrator\source\repos\polymorphism_multi\obj\Debug\net6.0\polymorphism_multi.pdb
+C:\Users\Administrator\source\repos\polymorphism_multi\obj\Debug\net6.0\polymorphism_multi.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\polymorphism_multi\obj\Debug\net6.0\ref\polymorphism_multi.dll

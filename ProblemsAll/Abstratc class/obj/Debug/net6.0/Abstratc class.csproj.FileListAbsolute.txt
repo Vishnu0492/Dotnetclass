@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Abstratc class\bin\Debug\net6.0\Abstratc class.exe
+C:\Users\Administrator\source\repos\Abstratc class\bin\Debug\net6.0\Abstratc class.deps.json
+C:\Users\Administrator\source\repos\Abstratc class\bin\Debug\net6.0\Abstratc class.runtimeconfig.json
+C:\Users\Administrator\source\repos\Abstratc class\bin\Debug\net6.0\Abstratc class.dll
+C:\Users\Administrator\source\repos\Abstratc class\bin\Debug\net6.0\Abstratc class.pdb
+C:\Users\Administrator\source\repos\Abstratc class\obj\Debug\net6.0\Abstratc class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Abstratc class\obj\Debug\net6.0\Abstratc class.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Abstratc class\obj\Debug\net6.0\Abstratc class.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Abstratc class\obj\Debug\net6.0\Abstratc class.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Abstratc class\obj\Debug\net6.0\Abstratc class.dll
+C:\Users\Administrator\source\repos\Abstratc class\obj\Debug\net6.0\refint\Abstratc class.dll
+C:\Users\Administrator\source\repos\Abstratc class\obj\Debug\net6.0\Abstratc class.pdb
+C:\Users\Administrator\source\repos\Abstratc class\obj\Debug\net6.0\Abstratc class.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Abstratc class\obj\Debug\net6.0\ref\Abstratc class.dll

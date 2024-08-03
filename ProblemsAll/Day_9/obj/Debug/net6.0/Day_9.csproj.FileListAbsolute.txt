@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Day_9\bin\Debug\net6.0\Day_9.exe
+C:\Users\Administrator\source\repos\Day_9\bin\Debug\net6.0\Day_9.deps.json
+C:\Users\Administrator\source\repos\Day_9\bin\Debug\net6.0\Day_9.runtimeconfig.json
+C:\Users\Administrator\source\repos\Day_9\bin\Debug\net6.0\Day_9.dll
+C:\Users\Administrator\source\repos\Day_9\bin\Debug\net6.0\Day_9.pdb
+C:\Users\Administrator\source\repos\Day_9\obj\Debug\net6.0\Day_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Day_9\obj\Debug\net6.0\Day_9.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Day_9\obj\Debug\net6.0\Day_9.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Day_9\obj\Debug\net6.0\Day_9.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day_9\obj\Debug\net6.0\Day_9.dll
+C:\Users\Administrator\source\repos\Day_9\obj\Debug\net6.0\refint\Day_9.dll
+C:\Users\Administrator\source\repos\Day_9\obj\Debug\net6.0\Day_9.pdb
+C:\Users\Administrator\source\repos\Day_9\obj\Debug\net6.0\Day_9.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Day_9\obj\Debug\net6.0\ref\Day_9.dll
