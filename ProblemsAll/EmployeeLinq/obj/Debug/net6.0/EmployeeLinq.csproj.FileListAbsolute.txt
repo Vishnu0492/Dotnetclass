@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\EmployeeLinq\bin\Debug\net6.0\EmployeeLinq.exe
+C:\Users\Administrator\source\repos\EmployeeLinq\bin\Debug\net6.0\EmployeeLinq.deps.json
+C:\Users\Administrator\source\repos\EmployeeLinq\bin\Debug\net6.0\EmployeeLinq.runtimeconfig.json
+C:\Users\Administrator\source\repos\EmployeeLinq\bin\Debug\net6.0\EmployeeLinq.dll
+C:\Users\Administrator\source\repos\EmployeeLinq\bin\Debug\net6.0\EmployeeLinq.pdb
+C:\Users\Administrator\source\repos\EmployeeLinq\obj\Debug\net6.0\EmployeeLinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\EmployeeLinq\obj\Debug\net6.0\EmployeeLinq.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\EmployeeLinq\obj\Debug\net6.0\EmployeeLinq.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\EmployeeLinq\obj\Debug\net6.0\EmployeeLinq.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\EmployeeLinq\obj\Debug\net6.0\EmployeeLinq.dll
+C:\Users\Administrator\source\repos\EmployeeLinq\obj\Debug\net6.0\refint\EmployeeLinq.dll
+C:\Users\Administrator\source\repos\EmployeeLinq\obj\Debug\net6.0\EmployeeLinq.pdb
+C:\Users\Administrator\source\repos\EmployeeLinq\obj\Debug\net6.0\EmployeeLinq.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\EmployeeLinq\obj\Debug\net6.0\ref\EmployeeLinq.dll

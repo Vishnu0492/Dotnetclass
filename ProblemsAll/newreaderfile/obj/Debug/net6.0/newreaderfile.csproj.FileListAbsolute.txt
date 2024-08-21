@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\newreaderfile\bin\Debug\net6.0\newreaderfile.exe
+C:\Users\Administrator\source\repos\newreaderfile\bin\Debug\net6.0\newreaderfile.deps.json
+C:\Users\Administrator\source\repos\newreaderfile\bin\Debug\net6.0\newreaderfile.runtimeconfig.json
+C:\Users\Administrator\source\repos\newreaderfile\bin\Debug\net6.0\newreaderfile.dll
+C:\Users\Administrator\source\repos\newreaderfile\bin\Debug\net6.0\newreaderfile.pdb
+C:\Users\Administrator\source\repos\newreaderfile\obj\Debug\net6.0\newreaderfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\newreaderfile\obj\Debug\net6.0\newreaderfile.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\newreaderfile\obj\Debug\net6.0\newreaderfile.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\newreaderfile\obj\Debug\net6.0\newreaderfile.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\newreaderfile\obj\Debug\net6.0\newreaderfile.dll
+C:\Users\Administrator\source\repos\newreaderfile\obj\Debug\net6.0\refint\newreaderfile.dll
+C:\Users\Administrator\source\repos\newreaderfile\obj\Debug\net6.0\newreaderfile.pdb
+C:\Users\Administrator\source\repos\newreaderfile\obj\Debug\net6.0\newreaderfile.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\newreaderfile\obj\Debug\net6.0\ref\newreaderfile.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\SQLCommand\bin\Debug\net6.0\SQLCommand.exe
+C:\Users\Administrator\source\repos\SQLCommand\bin\Debug\net6.0\SQLCommand.deps.json
+C:\Users\Administrator\source\repos\SQLCommand\bin\Debug\net6.0\SQLCommand.runtimeconfig.json
+C:\Users\Administrator\source\repos\SQLCommand\bin\Debug\net6.0\SQLCommand.dll
+C:\Users\Administrator\source\repos\SQLCommand\bin\Debug\net6.0\SQLCommand.pdb
+C:\Users\Administrator\source\repos\SQLCommand\obj\Debug\net6.0\SQLCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\SQLCommand\obj\Debug\net6.0\SQLCommand.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\SQLCommand\obj\Debug\net6.0\SQLCommand.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\SQLCommand\obj\Debug\net6.0\SQLCommand.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SQLCommand\obj\Debug\net6.0\SQLCommand.dll
+C:\Users\Administrator\source\repos\SQLCommand\obj\Debug\net6.0\refint\SQLCommand.dll
+C:\Users\Administrator\source\repos\SQLCommand\obj\Debug\net6.0\SQLCommand.pdb
+C:\Users\Administrator\source\repos\SQLCommand\obj\Debug\net6.0\SQLCommand.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\SQLCommand\obj\Debug\net6.0\ref\SQLCommand.dll

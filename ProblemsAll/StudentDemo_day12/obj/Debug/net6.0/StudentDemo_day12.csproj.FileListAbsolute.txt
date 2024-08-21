@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\StudentDemo_day12\bin\Debug\net6.0\StudentDemo_day12.exe
+C:\Users\Administrator\source\repos\StudentDemo_day12\bin\Debug\net6.0\StudentDemo_day12.deps.json
+C:\Users\Administrator\source\repos\StudentDemo_day12\bin\Debug\net6.0\StudentDemo_day12.runtimeconfig.json
+C:\Users\Administrator\source\repos\StudentDemo_day12\bin\Debug\net6.0\StudentDemo_day12.dll
+C:\Users\Administrator\source\repos\StudentDemo_day12\bin\Debug\net6.0\StudentDemo_day12.pdb
+C:\Users\Administrator\source\repos\StudentDemo_day12\obj\Debug\net6.0\StudentDemo_day12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\StudentDemo_day12\obj\Debug\net6.0\StudentDemo_day12.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\StudentDemo_day12\obj\Debug\net6.0\StudentDemo_day12.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\StudentDemo_day12\obj\Debug\net6.0\StudentDemo_day12.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\StudentDemo_day12\obj\Debug\net6.0\StudentDemo_day12.dll
+C:\Users\Administrator\source\repos\StudentDemo_day12\obj\Debug\net6.0\refint\StudentDemo_day12.dll
+C:\Users\Administrator\source\repos\StudentDemo_day12\obj\Debug\net6.0\StudentDemo_day12.pdb
+C:\Users\Administrator\source\repos\StudentDemo_day12\obj\Debug\net6.0\StudentDemo_day12.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\StudentDemo_day12\obj\Debug\net6.0\ref\StudentDemo_day12.dll

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Regexdemo\bin\Debug\net6.0\Regexdemo.exe
+C:\Users\Administrator\source\repos\Regexdemo\bin\Debug\net6.0\Regexdemo.deps.json
+C:\Users\Administrator\source\repos\Regexdemo\bin\Debug\net6.0\Regexdemo.runtimeconfig.json
+C:\Users\Administrator\source\repos\Regexdemo\bin\Debug\net6.0\Regexdemo.dll
+C:\Users\Administrator\source\repos\Regexdemo\bin\Debug\net6.0\Regexdemo.pdb
+C:\Users\Administrator\source\repos\Regexdemo\obj\Debug\net6.0\Regexdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Regexdemo\obj\Debug\net6.0\Regexdemo.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Regexdemo\obj\Debug\net6.0\Regexdemo.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Regexdemo\obj\Debug\net6.0\Regexdemo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Regexdemo\obj\Debug\net6.0\Regexdemo.dll
+C:\Users\Administrator\source\repos\Regexdemo\obj\Debug\net6.0\refint\Regexdemo.dll
+C:\Users\Administrator\source\repos\Regexdemo\obj\Debug\net6.0\Regexdemo.pdb
+C:\Users\Administrator\source\repos\Regexdemo\obj\Debug\net6.0\Regexdemo.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Regexdemo\obj\Debug\net6.0\ref\Regexdemo.dll

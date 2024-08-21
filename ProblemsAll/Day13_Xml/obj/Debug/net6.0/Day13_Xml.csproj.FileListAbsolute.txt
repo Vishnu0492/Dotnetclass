@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Day13_Xml\bin\Debug\net6.0\Day13_Xml.exe
+C:\Users\Administrator\source\repos\Day13_Xml\bin\Debug\net6.0\Day13_Xml.deps.json
+C:\Users\Administrator\source\repos\Day13_Xml\bin\Debug\net6.0\Day13_Xml.runtimeconfig.json
+C:\Users\Administrator\source\repos\Day13_Xml\bin\Debug\net6.0\Day13_Xml.dll
+C:\Users\Administrator\source\repos\Day13_Xml\bin\Debug\net6.0\Day13_Xml.pdb
+C:\Users\Administrator\source\repos\Day13_Xml\obj\Debug\net6.0\Day13_Xml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Day13_Xml\obj\Debug\net6.0\Day13_Xml.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Day13_Xml\obj\Debug\net6.0\Day13_Xml.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Day13_Xml\obj\Debug\net6.0\Day13_Xml.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Day13_Xml\obj\Debug\net6.0\Day13_Xml.dll
+C:\Users\Administrator\source\repos\Day13_Xml\obj\Debug\net6.0\refint\Day13_Xml.dll
+C:\Users\Administrator\source\repos\Day13_Xml\obj\Debug\net6.0\Day13_Xml.pdb
+C:\Users\Administrator\source\repos\Day13_Xml\obj\Debug\net6.0\Day13_Xml.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Day13_Xml\obj\Debug\net6.0\ref\Day13_Xml.dll
