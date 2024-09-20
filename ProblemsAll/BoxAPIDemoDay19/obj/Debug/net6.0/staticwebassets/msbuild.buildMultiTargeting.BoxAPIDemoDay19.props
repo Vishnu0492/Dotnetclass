@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BoxAPIDemoDay19.props" />
+</Project>

@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Xmalfile_product\bin\Debug\net6.0\Xmalfile_product.exe
+C:\Users\Administrator\source\repos\Xmalfile_product\bin\Debug\net6.0\Xmalfile_product.deps.json
+C:\Users\Administrator\source\repos\Xmalfile_product\bin\Debug\net6.0\Xmalfile_product.runtimeconfig.json
+C:\Users\Administrator\source\repos\Xmalfile_product\bin\Debug\net6.0\Xmalfile_product.dll
+C:\Users\Administrator\source\repos\Xmalfile_product\bin\Debug\net6.0\Xmalfile_product.pdb
+C:\Users\Administrator\source\repos\Xmalfile_product\obj\Debug\net6.0\Xmalfile_product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Xmalfile_product\obj\Debug\net6.0\Xmalfile_product.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Xmalfile_product\obj\Debug\net6.0\Xmalfile_product.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Xmalfile_product\obj\Debug\net6.0\Xmalfile_product.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Xmalfile_product\obj\Debug\net6.0\Xmalfile_product.dll
+C:\Users\Administrator\source\repos\Xmalfile_product\obj\Debug\net6.0\refint\Xmalfile_product.dll
+C:\Users\Administrator\source\repos\Xmalfile_product\obj\Debug\net6.0\Xmalfile_product.pdb
+C:\Users\Administrator\source\repos\Xmalfile_product\obj\Debug\net6.0\Xmalfile_product.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Xmalfile_product\obj\Debug\net6.0\ref\Xmalfile_product.dll
