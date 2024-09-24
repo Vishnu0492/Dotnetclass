@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\bin\Debug\net6.0\FlightBookingSystem.exe
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\bin\Debug\net6.0\FlightBookingSystem.deps.json
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\bin\Debug\net6.0\FlightBookingSystem.runtimeconfig.json
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\bin\Debug\net6.0\FlightBookingSystem.dll
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\bin\Debug\net6.0\FlightBookingSystem.pdb
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\obj\Debug\net6.0\FlightBookingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\obj\Debug\net6.0\FlightBookingSystem.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\obj\Debug\net6.0\FlightBookingSystem.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\obj\Debug\net6.0\FlightBookingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\obj\Debug\net6.0\FlightBookingSystem.dll
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\obj\Debug\net6.0\refint\FlightBookingSystem.dll
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\obj\Debug\net6.0\FlightBookingSystem.pdb
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\obj\Debug\net6.0\FlightBookingSystem.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\day21\FlightBookingSystem\obj\Debug\net6.0\ref\FlightBookingSystem.dll
